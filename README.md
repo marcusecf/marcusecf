@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning. 
 - 💞️ I’m looking to collaborate on making automation projects.
 - 📫 How to reach me marcuscflores@gmail.com
-- ⚡ Fun fact: Nothing is fun anymore.
+- ⚡ Fun fact: Nothing is fun anymore. JK! 😂
 
 <!---
 marcusecf/marcusecf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
