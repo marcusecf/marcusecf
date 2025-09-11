@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @marcusecf
-- 👀 I’m interested in Automation Develepment.
-- 🌱 I’m currently learning Machine Learning. 
-- 💞️ I’m looking to collaborate on making automation projects.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Security Operations Center Analyst Field. 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me marcuscflores@gmail.com
-- ⚡ Fun fact: Nothing is fun anymore. JK! 😂
+- ⚡ Fun fact: 
 
 <!---
 marcusecf/marcusecf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
